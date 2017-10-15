@@ -7,3 +7,4 @@ Of course, nothing is perfect and with this solution it's probably not possible 
 
 All the information are here : https://hackaday.io/project/27155-touch-screen-coffee-table-diy-with-low-cost-sensor
 
+![CoffeeTable](Pictures/Coffee_Table.jpg)
